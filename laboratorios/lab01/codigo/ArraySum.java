@@ -1,9 +1,8 @@
 import java.util.*;
 /**
- * Esta clase imprime el tiempo de ejecución de la suma de un array aleatorio
- * @Eduard Damiam
- * @Esteban Osorio
- * @0.01
+ * 
+ * @Sebastian Henao Zapata
+ * @Gonzalo Garcia Hernandez
  */
 public class ArraySum
 {
