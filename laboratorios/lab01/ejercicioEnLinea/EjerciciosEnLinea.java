@@ -1,8 +1,8 @@
 
 /**
- * ejercicios de recursion de codingbat
+ * ejercicios de recursion de codingbat:
  * 
- * Eduard Damiam y Esteban Osorio
+ * Autores: Gonzalo Garcia Hernandez y Sebastian Henao Zapata
  */
 public class EjerciciosEnLinea
 {    
